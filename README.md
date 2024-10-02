@@ -94,7 +94,7 @@ This enables detailed test results, sets the test environment to Node.js, and co
   }
 }
 ```
-
+Optional Command for TS: npm install --save-dev ts-jest typescript @types/jest    ||     npx ts-jest config:init
 This will generate a coverage report when you run the tests.
 
 - **Snapshot Testing**: Jest supports snapshot testing for UI components (useful in React). You can add snapshot tests using `toMatchSnapshot()`.
