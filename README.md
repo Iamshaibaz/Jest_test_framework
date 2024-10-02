@@ -99,4 +99,4 @@ This will generate a coverage report when you run the tests.
 
 - **Snapshot Testing**: Jest supports snapshot testing for UI components (useful in React). You can add snapshot tests using `toMatchSnapshot()`.
 
-Now you're all set to write and run tests using Jest!
+Now you're all set to write and run tests using Jest!!!
